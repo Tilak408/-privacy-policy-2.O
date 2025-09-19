@@ -1,1 +1,1 @@
-privacy-policy-website
+privacy-policy 2.0
