@@ -1,2 +1,2 @@
-# -privacy-policy-2.O
+privacy-policy-website
 Add privacy policy
